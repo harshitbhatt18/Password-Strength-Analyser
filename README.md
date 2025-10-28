@@ -138,7 +138,7 @@ The password strength is calculated based on the following criteria:
 
 ## 🛠️ Technologies Used
 
-- **Backend**: Python 3.x, Flask 3.0.0
+- **Backend**: Python 3.x, Flask 3.0.0, Gunicorn (Production Server)
 - **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
 - **Password Analysis**: Regular expressions, string operations
 - **Security**: Common password dictionary validation
