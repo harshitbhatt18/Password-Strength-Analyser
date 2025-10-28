@@ -25,11 +25,9 @@ A sophisticated web-based password strength analysis tool built with Flask that 
 - [Usage](#-usage)
 - [Project Structure](#-project-structure)
 - [Password Scoring System](#-password-scoring-system)
-- [API Endpoints](#-api-endpoints)
 - [Technologies Used](#-technologies-used)
 - [Contributing](#-contributing)
 - [License](#-license)
-- [Author](#-author)
 
 ## 🚀 Demo
 
